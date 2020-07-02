@@ -1,0 +1,19 @@
+{
+  "name": "tours-api",
+  "version": "1.0.0",
+  "description": "building a tour-site api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GithungoIan/tours-api.git"
+  },
+  "author": "Ian Githungo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GithungoIan/tours-api/issues"
+  },
+  "homepage": "https://github.com/GithungoIan/tours-api#readme"
+}
