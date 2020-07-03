@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/GithungoIan/tours-api/issues"
   },
-  "homepage": "https://github.com/GithungoIan/tours-api#readme"
+  "homepage": "https://github.com/GithungoIan/tours-api#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.21",
+    "morgan": "^1.10.0"
+  }
 }
